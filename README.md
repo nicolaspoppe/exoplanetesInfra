@@ -1,1 +1,1 @@
-# exoplanetesInfra
+# exoplanets
